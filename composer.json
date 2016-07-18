@@ -1,0 +1,47 @@
+{
+  "name": "inpsyde/top-selling-products",
+  "description": "Lightweight package providing a pre-configured, yet filterable WP_Query extension for top selling products.",
+  "type": "library",
+  "keywords": [
+    "best-seller",
+    "product",
+    "query",
+    "top-seller"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Inpsyde GmbH",
+      "email": "hello@inpsyde.com",
+      "homepage": "http://inpsyde.com",
+      "role": "Company"
+    },
+    {
+      "name": "Thorsten Frommen",
+      "email": "t.frommen@inpsyde.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/inpsyde/top-selling-products/issues",
+    "source": "https://github.com/inpsyde/top-selling-products"
+  },
+  "require": {
+    "php": ">=5.4"
+  },
+  "require-dev": {
+    "brain/monkey": "~1.0",
+    "mockery/mockery": "0.9.*",
+    "phpunit/phpunit": "~4.8|~5.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Inpsyde\\TopSellingProducts\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Inpsyde\\TopSellingProducts\\Tests\\": "tests/php"
+    }
+  }
+}
