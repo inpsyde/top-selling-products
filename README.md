@@ -4,9 +4,12 @@
 [![Project Status](http://opensource.box.com/badges/active.svg)](http://opensource.box.com/badges)
 [![Build Status](https://travis-ci.org/inpsyde/top-selling-products.svg?branch=master)](http://travis-ci.org/inpsyde/top-selling-products)
 [![Total Downloads](https://poser.pugx.org/inpsyde/top-selling-products/downloads)](https://packagist.org/packages/inpsyde/top-selling-products)
-[![License](https://poser.pugx.org/inpsyde/top-selling-products/license)](https://packagist.org/packages/inpsyde/top-selling-products)
 
 > Lightweight package providing a pre-configured, yet filterable `WP_Query` extension for top selling products.
+
+## UNMAINTAINED
+
+_NOTE:_ This repository is no longer maintained.
 
 ## Introduction
 
