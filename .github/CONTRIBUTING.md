@@ -24,4 +24,4 @@ Thanks for contributing&mdash;you rock!
 * Wait for feedback. The team looks at pull requests on a regular basis.
 
 # License
-By contributing code, you grant its use under the [MIT License](../LICENSE).
+By contributing code, you grant its use under this [License](../LICENSE).
