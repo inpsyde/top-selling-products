@@ -59,4 +59,4 @@ add_filter( 'inpsyde_top_selling_products.query_args' , function( array $args ) 
 
 Copyright (c) 2016 Inpsyde GmbH, Thorsten Frommen
 
-This code is licensed under the [MIT License](LICENSE).
+This code is licensed under this [License](LICENSE).
