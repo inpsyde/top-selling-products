@@ -8,7 +8,7 @@
     "query",
     "top-seller"
   ],
-  "license": "MIT",
+  "license": "GPL-2.0-or-later",
   "authors": [
     {
       "name": "Inpsyde GmbH",
