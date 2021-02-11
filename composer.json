@@ -1,6 +1,7 @@
 {
   "name": "inpsyde/top-selling-products",
   "description": "Lightweight package providing a pre-configured, yet filterable WP_Query extension for top selling products.",
+  "abandoned": true,
   "type": "library",
   "keywords": [
     "best-seller",
